@@ -1,0 +1,5 @@
+@import '../../node_modules/admin-lte/dist/css/adminlte.min';
+
+.card-footer > nav {
+    float: right;
+}
